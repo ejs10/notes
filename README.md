@@ -1,0 +1,7 @@
+# notes
+
+
+
+Android
+iOS
+Web
