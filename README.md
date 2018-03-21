@@ -9,6 +9,8 @@
 
 
 
+Spring MVC + Mybatis + Mysql
+
 - 로그인, 회원가입(미정)
 
 
